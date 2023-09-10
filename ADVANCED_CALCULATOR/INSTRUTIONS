@@ -1,0 +1,43 @@
+Project Description: Advanced Calculator Application
+The Advanced Calculator Application is a versatile and user-friendly tool designed to perform various mathematical operations with ease. It offers a comprehensive set of features including addition, subtraction, multiplication, division, rooting, squaring, and two additional operations chosen for their relevance and usefulness.
+
+Key Features
+Addition: The calculator allows users to add multiple numbers together by simply inputting the values and pressing the "+" button. The result is displayed accurately and instantaneously
+Subtraction: Users can subtract one number from another using the "-" button. The calculator accepts positive and negative values, making it suitable for a wide range of calculations
+Multiplication: The calculator enables users to perform multiplication operations efficiently. They can input two or more numbers, separated by the "*" operator, and the calculator will promptly provide the accurate product
+Division: With the division functionality, users can divide one number by another. The calculator accepts the dividend and divisor values and displays the precise quotient. It also handles decimal numbers and provides appropriate rounding options
+Rooting: This feature allows users to calculate the nth root of a number. They can enter the desired root and the number to be rooted, and the calculator will provide the exact result. It supports both integer and fractional roots
+Squaring: Users can quickly determine the square of a number using the squaring feature. By inputting a number and selecting the square function, the calculator will deliver the squared value accurately
+Trigonometric Functions: The calculator includes trigonometric functions such as sine, cosine, and tangent. Users can input an angle in degrees or radians and obtain the corresponding value using the appropriate trigonometric operation
+Exponential Function: The calculator offers an exponential function that allows users to calculate the value of a number raised to a specific power. It supports both positive and negative exponents, as well as fractional and decimal bases
+Logarithmic Function: Users can compute logarithms using the logarithmic function provided by the calculator. It supports both natural logarithms (base e) and common logarithms (base 10). They can input the base and the number for which the logarithm is to be calculated
+Memory Function: The calculator features a memory function that allows users to store and recall values for later use. This is particularly helpful when performing multiple calculations or working with complex formulas
+The Advanced Calculator Application aims to provide a comprehensive and efficient mathematical tool for users, catering to a wide range of mathematical operations. Its intuitive user interface, accurate calculations, and additional functionalities make it a valuable asset for students, professionals, and anyone in need of a powerful calculator tool.
+
+HRVATSKI
+Opis projekta: Napredna aplikacija kalkulatora
+Aplikacija Napredni kalkulator je svestran i jednostavan alat dizajniran za jednostavno izvođenje raznih matematičkih operacija. 
+Nudi opsežan skup značajki uključujući zbrajanje, oduzimanje, množenje, dijeljenje, korijenje, kvadriranje i dvije dodatne operacije odabrane zbog njihove relevantnosti i korisnosti.
+
+Glavne značajke
+Zbrajanje: 
+Kalkulator omogućuje korisnicima zbrajanje više brojeva jednostavnim unosom vrijednosti i pritiskom na gumb "+". Rezultat se prikazuje točno i trenutačno
+Oduzimanje: 
+Korisnici mogu oduzimati jedan broj od drugog pomoću gumba "-". Kalkulator prihvaća pozitivne i negativne vrijednosti, što ga čini prikladnim za širok raspon izračuna
+Množenje: 
+Kalkulator omogućuje korisnicima učinkovito izvođenje operacija množenja. Mogu unijeti dva ili više brojeva, odvojenih operatorom "*", a kalkulator će odmah dati točan proizvod
+Dijeljenje: 
+s funkcijom dijeljenja, korisnici mogu podijeliti jedan broj s drugim. Kalkulator prihvaća vrijednosti dividende i djelitelja i prikazuje točan kvocijent. Također obrađuje decimalne brojeve i pruža odgovarajuće mogućnosti zaokruživanja
+Rooting: 
+Ova značajka omogućuje korisnicima izračunavanje n-tog korijena broja. Mogu unijeti željeni korijen i broj koji treba ukorijeniti, a kalkulator će dati točan rezultat. Podržava i cjelobrojne i frakcijske korijene
+Kvadriranje: 
+Korisnici mogu brzo odrediti kvadrat broja pomoću značajke kvadriranja. Unosom broja i odabirom funkcije kvadrata, kalkulator će točno isporučiti kvadratnu vrijednost
+Trigonometrijske funkcije: 
+Kalkulator uključuje trigonometrijske funkcije kao što su sinus, kosinus i tangens. Korisnici mogu unijeti kut u stupnjevima ili radijanima i dobiti odgovarajuću vrijednost pomoću odgovarajuće trigonometrijske operacije
+Eksponencijalna funkcija: 
+Kalkulator nudi eksponencijalnu funkciju koja korisnicima omogućuje izračunavanje vrijednosti broja podignutog na određenu potenciju. Podržava i pozitivne i negativne eksponente, kao i razlomke i decimalne baze
+Logaritamska funkcija: 
+Korisnici mogu izračunati logaritme pomoću logaritamske funkcije koju nudi kalkulator. Podržava i prirodne logaritme (baza e) i uobičajene logaritme (baza 10). Mogu unijeti bazu i broj za koji treba izračunati logaritam
+Funkcija memorije: 
+Kalkulator ima funkciju memorije koja korisnicima omogućuje pohranjivanje i ponovno pozivanje vrijednosti za kasniju upotrebu. Ovo je osobito korisno pri izvođenju višestrukih izračuna ili radu sa složenim formulama
+Aplikacija naprednog kalkulatora ima za cilj pružiti sveobuhvatan i učinkovit matematički alat za korisnike, koji služi za širok raspon matematičkih operacija. Njegovo intuitivno korisničko sučelje, precizni izračuni i dodatne funkcionalnosti čine ga vrijednim sredstvom za studente, profesionalce i svakoga tko treba moćan alat za kalkulator.
